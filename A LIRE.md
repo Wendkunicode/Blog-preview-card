@@ -1,1 +1,1 @@
-Consulter ce site https://github.com/Wendkunicode/Blog-preview-card/# pour avoir un aperçu.
+Consulter ce site https://wendkunicode.github.io/Blog-preview-card/# pour avoir un aperçu.
